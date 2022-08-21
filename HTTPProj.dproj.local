@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/20 08:14:46.000.729,=C:\Users\Joao Campos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/20 08:16:45.000.301,C:\Users\Joao Campos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Joao\Projetos\HTTPApi\uHTTP.dfm</Transaction>
+    <Transaction>2022/08/20 08:16:45.000.301,C:\Users\Joao Campos\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Joao\Projetos\HTTPApi\uHTTP.pas</Transaction>
+    <Transaction>2022/08/20 08:16:58.000.413,C:\Users\Joao Campos\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Joao\Projetos\HTTPApi\HTTPProj.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
